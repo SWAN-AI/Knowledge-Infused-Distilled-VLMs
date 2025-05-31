@@ -5,12 +5,14 @@
 
 Please cite our work as 
 
-```@misc{SWANAI2025,
-  author       = {SWAN-AI},
-  title        = {Knowledge-Infused-Distilled-VLMs},
-  year         = {2025},
-  url          = {https://github.com/SWAN-AI/Knowledge-Infused-Distilled-VLMs},
-  note         = {Accessed: 2025-05-25}
+```
+
+@article{garg2024just,
+  title={Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes},
+  author={Garg, Rahul and Padhi, Trilok and Jain, Hemang and Kursuncu, Ugur and Kumaraguru, Ponnurangam},
+  journal={arXiv preprint arXiv:2411.12174},
+  year={2024}
 }
+
 ```
 
