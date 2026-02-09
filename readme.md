@@ -83,3 +83,11 @@ Please cite our work as
 }
 
 ```
+
+### Reference Update (Feb 8, 2026)
+
+We identified and corrected a small number of issues in the reference list (bibliographic and metadata inconsistencies). The paper’s content and conclusions remain unchanged.
+
+**Updated version:**  
+https://github.com/SWAN-AI/Knowledge-Infused-Distilled-VLMs/blob/main/_ACL_2025__Just_KIDDIN__Knowledge_Infusion_and_Distillation_for_Detection_of_INdecent_Memes____Citations_Fixed%20(1).pdf
+
